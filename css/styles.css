@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Playfair+Display:ital@1&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+
+
+body {
+	background-color: rgb(134 151 198);
+	font-family:'Montserrat', serif; 
+	font-size: 14px;
+	margin: 0px;
+}
+
+ p, h2, h3 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+
+}
+
+h1{
+	font-size: 28px;
+	font-family: 'Playfair Display', serif
+}
+
+h2, {
+	font-size: 22px;
+}
+
+p{
+	font-size: 15px;
+}
+
+a{
+	text-decoration: none;
+	text-align: left;
+
+}
